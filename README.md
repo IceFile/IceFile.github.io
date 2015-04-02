@@ -4,4 +4,4 @@ English Version - http://Forumdreamz.GitHub.io
 
 
 El sitio web del Forumdreamz en GitHub
-Versión española - http://Forumdreamz.GitHub.io/sp
+Versión Español - http://Forumdreamz.GitHub.io/sp
