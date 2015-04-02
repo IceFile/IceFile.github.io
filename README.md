@@ -1,3 +1,4 @@
 # Forumdreamz.GitHub.io
 The Forumdreamz's website on Github.
-Just go here... http://forumdreamz.github.io
+English Version - http://Forumdreamz.GitHub.io
+Versión española - http://Forumdreamz.GitHub.io/sp
