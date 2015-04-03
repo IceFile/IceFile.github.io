@@ -112,7 +112,7 @@ h6 { font-size: 14px; margin: 0 0 5px; padding: 0; }
 
 #site_title { float: left; }
 #site_title h1 { margin: 0; padding: 0 }
-#site_title h1 a { display: block; width: 225px; height: 38px; color: #fff; text-indent: -10000px; background: url(../images/tooplate_logo.jpg) no-repeat top left }
+#site_title h1 a { display: block; width: 225px; height: 38px; color: #fff; text-indent: -10000px; background: url(../images/tooplate_logo.png) no-repeat top left }
 
 #tooplate_menu { float: right; }
 
