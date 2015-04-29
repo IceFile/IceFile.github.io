@@ -11,3 +11,6 @@ DreamzNet: [![Visit our IRC channel](https://kiwiirc.com/buttons/irc.freenode.ne
 btrIRC: [![Visit our IRC channel](https://kiwiirc.com/buttons/irc.freenode.net/botwillacceptanything.png)](https://kiwiirc.com/client/irc.btri.x10.bz/#botwillacceptanything)
 
 Isainode: [![Visit our IRC channel](https://kiwiirc.com/buttons/irc.freenode.net/botwillacceptanything.png)](https://kiwiirc.com/client/irc.isainode.tk/#botwillacceptanything)
+
+
+[![Join the chat at https://gitter.im/Forumdreamz/forumdreamz.github.io](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Forumdreamz/forumdreamz.github.io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
